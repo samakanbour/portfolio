@@ -87,11 +87,11 @@ figure .img {
     display: block;
     height: 240px;
     width: 320px;
-    -webkit-transition: background 400ms linear;
-    -moz-transition: background 400ms linear;
-    -ms-transition: background 400ms linear;
-    -o-transition: background 400ms linear;
-    transition: background 400ms linear;
+    -webkit-transition: background linear 400ms;
+    -moz-transition: background linear 400ms;
+    -ms-transition: background linear 400ms;
+    -o-transition: background linear 400ms;
+    transition: background linear 400ms;
 }
 
 figure figcaption {
