@@ -70,6 +70,7 @@ a {
     transition: color 300ms ease-out;
     text-decoration: none;
     color: #45ADA8;
+    cursor: pointer;
 }
 
 a:hover {
